@@ -48,7 +48,7 @@
 {"d_time":0.7893515381,"n_visits":5,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7893563374,"n_visits":5,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7893565968,"n_visits":4,"max_disc":10,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.0981241429,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.0981241429,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.3123557216,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.1376931727,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.7351718123,"n_visits":7,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -74,7 +74,7 @@
 {"d_time":0.582356496,"n_visits":9,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5823497511,"n_visits":9,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.1029519596,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.0393529325,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0393529325,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.106409906,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.1092715743,"n_visits":2,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.546144498,"n_visits":4,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -83,7 +83,7 @@
 {"d_time":0.5556373451,"n_visits":6,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000035022,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0110755719,"n_visits":2,"max_disc":15,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.1931863448,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.1931863448,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.4331825365,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.3081122497,"n_visits":4,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.3081075802,"n_visits":4,"max_disc":20,"curr_disc":5,"is_purchased":-1}
@@ -137,7 +137,7 @@
 {"d_time":0.3157200172,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.5787521067,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.7476173842,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
-{"d_time":0.3157494615,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.3157494615,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000179,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.7087188269,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8790761619,"n_visits":4,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -293,6 +293,7 @@
 {"d_time":0.1427178896,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.1461472998,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.9116032204,"n_visits":11,"max_disc":15,"curr_disc":10,"is_purchased":-1}
+{"d_time":0.0000176406,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.405894606,"n_visits":7,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.3156670954,"n_visits":5,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.8106211709,"n_visits":7,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -419,6 +420,7 @@
 {"d_time":0.2676120298,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.2675764892,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.2675505471,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000322979,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.1590882353,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9010087439,"n_visits":8,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9010073171,"n_visits":7,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -545,6 +547,7 @@
 {"d_time":0.2435861832,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.5838425867,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6164034996,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000338544,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000380051,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000102471,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.1928005864,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -735,6 +738,7 @@
 {"d_time":0.2150208658,"n_visits":2,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0302036879,"n_visits":2,"max_disc":15,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.030188901,"n_visits":2,"max_disc":15,"curr_disc":10,"is_purchased":-1}
+{"d_time":0.0000115442,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000195863,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.7790730358,"n_visits":7,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8750854953,"n_visits":5,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -1069,6 +1073,7 @@
 {"d_time":0.4596075045,"n_visits":2,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5594990796,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000063558,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.0000380051,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000363189,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.6893075533,"n_visits":5,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000211428,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
@@ -1077,6 +1082,7 @@
 {"d_time":0.0647721269,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.5082257722,"n_visits":7,"max_disc":15,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.4450415585,"n_visits":7,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000211428,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.1199882379,"n_visits":2,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.1200031546,"n_visits":2,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.120001598,"n_visits":2,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -1176,7 +1182,7 @@
 {"d_time":0.9357760287,"n_visits":4,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.91739232,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.2229999939,"n_visits":4,"max_disc":20,"curr_disc":15,"is_purchased":1}
-{"d_time":0.4502062329,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.4502062329,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.1269859779,"n_visits":2,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000172515,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.917381165,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -1417,7 +1423,7 @@
 {"d_time":0.5277060516,"n_visits":2,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9226697126,"n_visits":3,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.3949338277,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.001596993,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.001596993,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000299631,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.7305563313,"n_visits":5,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.6549773921,"n_visits":9,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -1537,6 +1543,7 @@
 {"d_time":0.9002512358,"n_visits":5,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.000024645,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000267203,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.0000263312,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.4782254699,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.478250504,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.4782549142,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -1545,6 +1552,7 @@
 {"d_time":0.4782534874,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.726226602,"n_visits":5,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.2424654864,"n_visits":5,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.0000092094,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.1701036217,"n_visits":2,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000356703,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.2579007506,"n_visits":3,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -1687,7 +1695,7 @@
 {"d_time":0.7270829493,"n_visits":6,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.1653685478,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.1647107869,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.1606234862,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.1606234862,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.3507197429,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.1436525819,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8761742834,"n_visits":11,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -1734,7 +1742,7 @@
 {"d_time":0.9741702725,"n_visits":8,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.0000014268,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.1993492695,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
-{"d_time":0.1982001661,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.1982001661,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000322979,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.6019850343,"n_visits":4,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6019968379,"n_visits":4,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -1776,7 +1784,7 @@
 {"d_time":0.7335248808,"n_visits":6,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.7502254689,"n_visits":7,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5804472903,"n_visits":6,"max_disc":10,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.7335670367,"n_visits":5,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.7335670367,"n_visits":6,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.6415990736,"n_visits":8,"max_disc":15,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0963801881,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.9533975598,"n_visits":4,"max_disc":15,"curr_disc":10,"is_purchased":-1}
@@ -1788,7 +1796,7 @@
 {"d_time":0.5494482189,"n_visits":4,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0033766181,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0778104749,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.4669479391,"n_visits":3,"max_disc":15,"curr_disc":5,"is_purchased":1}
+{"d_time":0.4669479391,"n_visits":4,"max_disc":15,"curr_disc":5,"is_purchased":1}
 {"d_time":0.1743070131,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5960367801,"n_visits":6,"max_disc":15,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.5960509185,"n_visits":6,"max_disc":15,"curr_disc":5,"is_purchased":-1}
@@ -1861,6 +1869,7 @@
 {"d_time":0.0192451147,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.4123894593,"n_visits":7,"max_disc":20,"curr_disc":10,"is_purchased":1}
 {"d_time":0.7291003334,"n_visits":6,"max_disc":20,"curr_disc":20,"is_purchased":-1}
+{"d_time":0.0000053181,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000204942,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.3923131611,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.3934464398,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -2076,6 +2085,7 @@
 {"d_time":0.1733461193,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.1733299055,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.1733168048,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000149167,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.6179955636,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000287957,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.3847410639,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -2092,6 +2102,7 @@
 {"d_time":0.0000233479,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000216616,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.1567176502,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000084312,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.3847370429,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.3847456038,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7782997031,"n_visits":7,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -2108,6 +2119,7 @@
 {"d_time":0.4770608013,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0776487261,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000102471,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000070044,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.6855772153,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8055978807,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.805603588,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -2190,6 +2202,7 @@
 {"d_time":0.5710277296,"n_visits":3,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5710299347,"n_visits":3,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.4720332307,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.0000024645,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000131007,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000142681,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.7970123571,"n_visits":7,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -2267,6 +2280,7 @@
 {"d_time":0.1926671145,"n_visits":3,"max_disc":15,"curr_disc":5,"is_purchased":1}
 {"d_time":0.7711876883,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.0000044101,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.0000121928,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.4437875195,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.1682075167,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8089984952,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":-1}
@@ -2293,7 +2307,7 @@
 {"d_time":0.8627701525,"n_visits":7,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8053225058,"n_visits":7,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8627816967,"n_visits":8,"max_disc":5,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.6163434438,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.6163434438,"n_visits":5,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0678530056,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.4542704452,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.4542775792,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":-1}
@@ -2677,7 +2691,7 @@
 {"d_time":0.6708805214,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.6708931033,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.3370743508,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.670894141,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.670894141,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.3103943724,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.2297495982,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.4170351628,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -2726,9 +2740,9 @@
 {"d_time":0.275425907,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.417097294,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.417068628,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
-{"d_time":0.229791754,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.229791754,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.5709513302,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.5003491152,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.5003491152,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000088203,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.7261560397,"n_visits":2,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7261664165,"n_visits":2,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -2891,13 +2905,13 @@
 {"d_time":0.0000338544,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.6671126971,"n_visits":4,"max_disc":20,"curr_disc":10,"is_purchased":1}
 {"d_time":0.5575603,"n_visits":9,"max_disc":15,"curr_disc":10,"is_purchased":-1}
-{"d_time":0.0460654396,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0460654396,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.162311925,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0445585953,"n_visits":4,"max_disc":10,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000142681,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.842398504,"n_visits":4,"max_disc":15,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.2808922874,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
-{"d_time":0.4421005076,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.4421005076,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.5444001541,"n_visits":5,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.2755381064,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0860251568,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":-1}
@@ -3057,6 +3071,7 @@
 {"d_time":0.6125974108,"n_visits":4,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.612641642,"n_visits":5,"max_disc":20,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0278411449,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000060964,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000272392,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000106362,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0178751147,"n_visits":2,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -3338,7 +3353,7 @@
 {"d_time":0.7694533321,"n_visits":5,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7694454198,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8608230714,"n_visits":5,"max_disc":15,"curr_disc":15,"is_purchased":-1}
-{"d_time":0.8608429171,"n_visits":5,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.8608429171,"n_visits":6,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.1153243749,"n_visits":3,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.1153273583,"n_visits":3,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6124407208,"n_visits":3,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -3428,6 +3443,7 @@
 {"d_time":0.6294872462,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.6295086484,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.0000282768,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.0000063558,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000141384,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000160841,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.4381701563,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -3441,6 +3457,7 @@
 {"d_time":0.4255520697,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.7182704327,"n_visits":5,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0981377624,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.000024645,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.2821244054,"n_visits":2,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0252759943,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.0069335335,"n_visits":2,"max_disc":10,"curr_disc":0,"is_purchased":-1}
@@ -3529,7 +3546,7 @@
 {"d_time":0.6981859628,"n_visits":6,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.6982237085,"n_visits":6,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.6982216331,"n_visits":6,"max_disc":20,"curr_disc":5,"is_purchased":-1}
-{"d_time":0.0089729682,"n_visits":2,"max_disc":15,"curr_disc":5,"is_purchased":1}
+{"d_time":0.0089729682,"n_visits":3,"max_disc":15,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000070044,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000146573,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000088203,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
@@ -3753,11 +3770,11 @@
 {"d_time":0.2137563203,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5519931347,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.8695837039,"n_visits":6,"max_disc":20,"curr_disc":10,"is_purchased":-1}
-{"d_time":0.7533966259,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.7533966259,"n_visits":6,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.2742513803,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.2742561796,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6370876202,"n_visits":8,"max_disc":20,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.1938588926,"n_visits":2,"max_disc":20,"curr_disc":15,"is_purchased":1}
+{"d_time":0.1938588926,"n_visits":3,"max_disc":20,"curr_disc":15,"is_purchased":1}
 {"d_time":0.4011979263,"n_visits":5,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6142351328,"n_visits":8,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.000028666,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
@@ -4087,6 +4104,7 @@
 {"d_time":0.1183625789,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.5291153538,"n_visits":6,"max_disc":15,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.320435894,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000212725,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0495133984,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.6460599399,"n_visits":4,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000315196,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
@@ -4184,7 +4202,7 @@
 {"d_time":0.8430500387,"n_visits":9,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8430464068,"n_visits":9,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000259421,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
-{"d_time":0.3455066866,"n_visits":4,"max_disc":20,"curr_disc":10,"is_purchased":1}
+{"d_time":0.3455066866,"n_visits":5,"max_disc":20,"curr_disc":10,"is_purchased":1}
 {"d_time":0.3165941348,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7590261819,"n_visits":5,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7590180101,"n_visits":5,"max_disc":15,"curr_disc":0,"is_purchased":-1}
@@ -4351,10 +4369,11 @@
 {"d_time":0.4489627004,"n_visits":3,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.4712711828,"n_visits":4,"max_disc":20,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.4712888234,"n_visits":4,"max_disc":20,"curr_disc":15,"is_purchased":-1}
-{"d_time":0.4580404745,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.4580404745,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.6007664062,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7658899312,"n_visits":9,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.2782727882,"n_visits":6,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.000024645,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.4229550104,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.4514147436,"n_visits":6,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.2008461261,"n_visits":5,"max_disc":15,"curr_disc":10,"is_purchased":1}
@@ -4580,6 +4599,7 @@
 {"d_time":0.7028826424,"n_visits":2,"max_disc":10,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.7028805671,"n_visits":2,"max_disc":10,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.0000171218,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.0000230884,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.00002685,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.9318090992,"n_visits":5,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9318137687,"n_visits":5,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -4591,7 +4611,7 @@
 {"d_time":0.5446913537,"n_visits":6,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5446629472,"n_visits":5,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000334653,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
-{"d_time":0.3734212475,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.3734212475,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000181594,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000348921,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.9318001491,"n_visits":5,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -4652,6 +4672,7 @@
 {"d_time":0.3956608538,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.395692114,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.0000050587,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.0000182891,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0790891588,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0768092412,"n_visits":2,"max_disc":15,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.2693201845,"n_visits":3,"max_disc":15,"curr_disc":5,"is_purchased":-1}
@@ -4690,6 +4711,7 @@
 {"d_time":0.7335797483,"n_visits":2,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7335697606,"n_visits":3,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000260718,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.0000348921,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.5016686579,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000121928,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.6388748982,"n_visits":4,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -4738,12 +4760,13 @@
 {"d_time":0.7737160012,"n_visits":3,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0354162254,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.7737193736,"n_visits":3,"max_disc":10,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000199754,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.6976716615,"n_visits":3,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000361892,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.1289669134,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8802654754,"n_visits":4,"max_disc":5,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.7926863895,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.7926863895,"n_visits":5,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.9830949885,"n_visits":6,"max_disc":20,"curr_disc":10,"is_purchased":1}
 {"d_time":0.8029816243,"n_visits":5,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.8029825323,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":-1}
@@ -4769,6 +4792,7 @@
 {"d_time":0.9446390027,"n_visits":4,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9446425048,"n_visits":4,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9446382244,"n_visits":4,"max_disc":15,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000018159,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.6117352266,"n_visits":3,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.3942021319,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.3942055044,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -4867,7 +4891,7 @@
 {"d_time":0.8310196694,"n_visits":5,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.8310397745,"n_visits":5,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.8310545615,"n_visits":6,"max_disc":20,"curr_disc":5,"is_purchased":-1}
-{"d_time":0.6771495491,"n_visits":4,"max_disc":20,"curr_disc":5,"is_purchased":1}
+{"d_time":0.6771495491,"n_visits":5,"max_disc":20,"curr_disc":5,"is_purchased":1}
 {"d_time":0.1243819143,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.000000908,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.2811792066,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -4942,6 +4966,7 @@
 {"d_time":0.0507281352,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0613896719,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000175109,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.0000230884,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000321682,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.007908436,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000313899,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
@@ -5166,6 +5191,7 @@
 {"d_time":0.5106003783,"n_visits":5,"max_disc":15,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.0000332058,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.1281437719,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000042804,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.8560603692,"n_visits":6,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8560302765,"n_visits":7,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8560209373,"n_visits":6,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -5184,6 +5210,7 @@
 {"d_time":0.6277816857,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6277951755,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6278080168,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000274986,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000356703,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000208834,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.8571717269,"n_visits":5,"max_disc":15,"curr_disc":0,"is_purchased":-1}
@@ -5197,6 +5224,7 @@
 {"d_time":0.8438349156,"n_visits":12,"max_disc":20,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.0000143978,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.3419793452,"n_visits":6,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.0000176406,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.1397280676,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000300928,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000077826,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
@@ -5248,7 +5276,7 @@
 {"d_time":0.4289354327,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.4289201269,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.4288937957,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
-{"d_time":0.4289602073,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.4289602073,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.7508777819,"n_visits":8,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.750903724,"n_visits":8,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.750910858,"n_visits":8,"max_disc":20,"curr_disc":5,"is_purchased":-1}
@@ -5315,6 +5343,7 @@
 {"d_time":0.538938573,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5389315686,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000095986,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.0000307413,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000195863,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.308386587,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5389485607,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
@@ -5439,6 +5468,7 @@
 {"d_time":0.4455309554,"n_visits":4,"max_disc":20,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.4455212272,"n_visits":4,"max_disc":20,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.3100258655,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000095986,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.8038444571,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8544681755,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8544973603,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -5588,6 +5618,7 @@
 {"d_time":0.9140263382,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.914005844,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.914008957,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000141384,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.7276456325,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.1168593664,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.7097501533,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":-1}
@@ -5613,7 +5644,7 @@
 {"d_time":0.6818359816,"n_visits":4,"max_disc":20,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.4388655331,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.6818235294,"n_visits":4,"max_disc":20,"curr_disc":15,"is_purchased":-1}
-{"d_time":0.4388935505,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.4388935505,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000005188,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.7844872728,"n_visits":2,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.784465222,"n_visits":2,"max_disc":15,"curr_disc":0,"is_purchased":-1}
@@ -5731,6 +5762,7 @@
 {"d_time":0.7065884652,"n_visits":3,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.2473039393,"n_visits":3,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000132304,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000024645,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000207536,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.282748701,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0971824462,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -5802,6 +5834,7 @@
 {"d_time":0.7400000182,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.739966942,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7399496906,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000162138,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0517077072,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.6870840597,"n_visits":6,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.0000298334,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
@@ -5895,7 +5928,7 @@
 {"d_time":0.5833703116,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7530059385,"n_visits":7,"max_disc":15,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.0000287957,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
-{"d_time":0.5819144434,"n_visits":5,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.5819144434,"n_visits":6,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.6042916722,"n_visits":5,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.0000207536,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.4474266712,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
@@ -6158,7 +6191,7 @@
 {"d_time":0.5061100677,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.506139512,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.9672868072,"n_visits":10,"max_disc":20,"curr_disc":20,"is_purchased":-1}
-{"d_time":0.0852942393,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0852942393,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000014268,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.146557314,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0215931302,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
@@ -6240,7 +6273,7 @@
 {"d_time":0.0000306116,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000380051,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.2218642507,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":-1}
-{"d_time":0.2219122435,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.2219122435,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.450693295,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.4506740979,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.7409662301,"n_visits":4,"max_disc":10,"curr_disc":0,"is_purchased":-1}
@@ -6671,7 +6704,7 @@
 {"d_time":0.1466296923,"n_visits":6,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000150464,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000044101,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
-{"d_time":0.150460037,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.150460037,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.1555362489,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.7869477471,"n_visits":8,"max_disc":20,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.829498946,"n_visits":9,"max_disc":20,"curr_disc":15,"is_purchased":-1}
@@ -6720,7 +6753,7 @@
 {"d_time":0.5125770333,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0598354833,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7041619749,"n_visits":9,"max_disc":15,"curr_disc":15,"is_purchased":-1}
-{"d_time":0.0823459246,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.0823459246,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.3304519923,"n_visits":7,"max_disc":15,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000012971,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.9574804504,"n_visits":8,"max_disc":10,"curr_disc":10,"is_purchased":-1}
@@ -6731,7 +6764,7 @@
 {"d_time":0.0000298334,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.9671190918,"n_visits":7,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6268385622,"n_visits":5,"max_disc":20,"curr_disc":10,"is_purchased":1}
-{"d_time":0.1665928831,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.1665928831,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0996967503,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.726551656,"n_visits":6,"max_disc":20,"curr_disc":10,"is_purchased":1}
 {"d_time":0.9747272485,"n_visits":5,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -6814,7 +6847,7 @@
 {"d_time":0.8266101683,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000175109,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.1459755634,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.2264928324,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.2264928324,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.025558633,"n_visits":2,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0255614866,"n_visits":2,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0255732903,"n_visits":2,"max_disc":15,"curr_disc":0,"is_purchased":-1}
@@ -6839,7 +6872,7 @@
 {"d_time":0.8330264172,"n_visits":7,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.7828779573,"n_visits":6,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8330068309,"n_visits":6,"max_disc":20,"curr_disc":20,"is_purchased":-1}
-{"d_time":0.4757533217,"n_visits":3,"max_disc":15,"curr_disc":10,"is_purchased":1}
+{"d_time":0.4757533217,"n_visits":4,"max_disc":15,"curr_disc":10,"is_purchased":1}
 {"d_time":0.1598400361,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.5355366614,"n_visits":5,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5355388665,"n_visits":5,"max_disc":10,"curr_disc":0,"is_purchased":-1}
@@ -7012,6 +7045,7 @@
 {"d_time":0.7563160152,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7562859225,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5802842445,"n_visits":3,"max_disc":5,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000238667,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000164732,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.633459883,"n_visits":6,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7177803873,"n_visits":7,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -7408,6 +7442,7 @@
 {"d_time":0.1753171968,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.1753322432,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.1467715954,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000125819,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000068746,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.8638503797,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000145276,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
@@ -7503,7 +7538,7 @@
 {"d_time":0.0235773084,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.0235701744,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.0235920954,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.2248993416,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.2248993416,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000368377,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.6822994364,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.3895355451,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -7541,7 +7576,7 @@
 {"d_time":0.9270375767,"n_visits":7,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9270326477,"n_visits":7,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000095986,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.3717714624,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.3717714624,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.3665943359,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6755376394,"n_visits":7,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6755272626,"n_visits":7,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -7753,6 +7788,7 @@
 {"d_time":0.8128737196,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.3175615141,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.4845134353,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.0000241261,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.7464671134,"n_visits":7,"max_disc":20,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.000016992,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000064855,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
@@ -7827,7 +7863,7 @@
 {"d_time":0.0516636057,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000064855,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.7618532175,"n_visits":4,"max_disc":20,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.0832016234,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.0832016234,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.4130957318,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8380455566,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.8380233761,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -7884,7 +7920,7 @@
 {"d_time":0.0000334653,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.2392262315,"n_visits":3,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.1056260668,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.2957927562,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.2957927562,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.5938532372,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.5938536264,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.5938671162,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":-1}
@@ -8063,6 +8099,7 @@
 {"d_time":0.1995147798,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.1995073863,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.1994767747,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
+{"d_time":0.0000022051,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.2367822303,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.2367852137,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.2367775607,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":-1}
@@ -8250,6 +8287,7 @@
 {"d_time":0.0000143978,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.2315725465,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7841076108,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":-1}
+{"d_time":0.0000168623,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.1404504241,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.3058401147,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.1593279399,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
@@ -8484,6 +8522,7 @@
 {"d_time":0.5949188072,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5949130999,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.594915305,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
+{"d_time":0.0000223102,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000254232,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.037531411,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000289254,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
@@ -8688,7 +8727,7 @@
 {"d_time":0.8559860452,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7329990353,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.2901668321,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.1259066587,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.1259066587,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.7143088212,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7143286669,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6997476746,"n_visits":10,"max_disc":5,"curr_disc":0,"is_purchased":-1}
@@ -9311,7 +9350,7 @@
 {"d_time":0.4383728935,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.5221374594,"n_visits":5,"max_disc":10,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.0000256826,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
-{"d_time":0.466366837,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.466366837,"n_visits":5,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.6181735262,"n_visits":5,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.618195966,"n_visits":6,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000216616,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
@@ -9421,6 +9460,7 @@
 {"d_time":0.3397993045,"n_visits":7,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.3398170748,"n_visits":7,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.3398213552,"n_visits":7,"max_disc":15,"curr_disc":15,"is_purchased":-1}
+{"d_time":0.0000045399,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0015403096,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.2972473273,"n_visits":5,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.7666688415,"n_visits":6,"max_disc":15,"curr_disc":0,"is_purchased":-1}
@@ -9626,6 +9666,7 @@
 {"d_time":0.6696245367,"n_visits":10,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6696014483,"n_visits":10,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.000033595,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.0000072638,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0240423198,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000041507,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0910201701,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
@@ -9697,6 +9738,7 @@
 {"d_time":0.2904118548,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000115442,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000176406,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.0000241261,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.2146553423,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.022323918,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.0223162651,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":-1}
@@ -9806,7 +9848,7 @@
 {"d_time":0.5543691677,"n_visits":3,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.000018808,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.3915103842,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
-{"d_time":0.1632953883,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.1632953883,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.658216647,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.6582003035,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.6581715079,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -9992,7 +10034,8 @@
 {"d_time":0.7648257881,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.764843299,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.7648248801,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
-{"d_time":0.7648755968,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.0000265906,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.7648755968,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.8056524888,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.8056356264,"n_visits":3,"max_disc":5,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.1399256163,"n_visits":2,"max_disc":20,"curr_disc":10,"is_purchased":-1}
@@ -10026,6 +10069,7 @@
 {"d_time":0.000036708,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000060964,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000131007,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.000005837,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.6718494572,"n_visits":4,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6718536079,"n_visits":4,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6718774746,"n_visits":4,"max_disc":15,"curr_disc":0,"is_purchased":-1}
@@ -10106,7 +10150,7 @@
 {"d_time":0.0351127033,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.4575669023,"n_visits":6,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0053256448,"n_visits":2,"max_disc":10,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.1931428918,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.1931428918,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0316298525,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8996951679,"n_visits":7,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.89966287,"n_visits":7,"max_disc":15,"curr_disc":0,"is_purchased":-1}
@@ -10267,7 +10311,7 @@
 {"d_time":0.2296376582,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.1727455607,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.2296316915,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
-{"d_time":0.2296276705,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.2296276705,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.000031779,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.2571876035,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000064855,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
@@ -10329,6 +10373,7 @@
 {"d_time":0.2068554738,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7969731846,"n_visits":8,"max_disc":15,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.0172892133,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.0000190674,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.3723097601,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.106429622,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.5784693382,"n_visits":11,"max_disc":20,"curr_disc":0,"is_purchased":-1}
@@ -10350,7 +10395,7 @@
 {"d_time":0.8952969516,"n_visits":7,"max_disc":20,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.8953123871,"n_visits":7,"max_disc":20,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.8953188726,"n_visits":7,"max_disc":20,"curr_disc":15,"is_purchased":-1}
-{"d_time":0.6966782104,"n_visits":6,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.6966782104,"n_visits":7,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000358,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.654824334,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.6548100659,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -10404,6 +10449,7 @@
 {"d_time":0.7211078452,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7211190002,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.000008042,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000358,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.4563673416,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.7211023973,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7211040836,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -10440,6 +10486,7 @@
 {"d_time":0.446405981,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.446392102,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.0000310008,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.0,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.2281288682,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.228106558,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.2281179725,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -10629,7 +10676,7 @@
 {"d_time":0.7028630562,"n_visits":6,"max_disc":20,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0234021995,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000259421,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
-{"d_time":0.2952264411,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.2952264411,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.1364240873,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.6742852866,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.3385250306,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":-1}
@@ -11069,7 +11116,7 @@
 {"d_time":0.1561850597,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.2641556399,"n_visits":4,"max_disc":20,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0034195522,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
-{"d_time":0.1093597773,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.1093597773,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.2328752269,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.8900641794,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.6070796651,"n_visits":4,"max_disc":10,"curr_disc":10,"is_purchased":-1}
@@ -11165,7 +11212,7 @@
 {"d_time":0.0203559536,"n_visits":3,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.7367855379,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0252405834,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.6462222075,"n_visits":6,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.6462222075,"n_visits":7,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.9620166784,"n_visits":8,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9620428799,"n_visits":7,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9620396371,"n_visits":7,"max_disc":15,"curr_disc":0,"is_purchased":-1}
@@ -11213,7 +11260,7 @@
 {"d_time":0.7330939833,"n_visits":8,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7330862007,"n_visits":8,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.7331026739,"n_visits":8,"max_disc":15,"curr_disc":0,"is_purchased":-1}
-{"d_time":0.3577381069,"n_visits":6,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.3577381069,"n_visits":7,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.1613699689,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.580864698,"n_visits":5,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5808742966,"n_visits":4,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -11247,6 +11294,7 @@
 {"d_time":0.9896604042,"n_visits":7,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.9896505462,"n_visits":7,"max_disc":20,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.0000239964,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000166029,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0000118036,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.1141047091,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.3562280198,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":1}
@@ -11544,7 +11592,7 @@
 {"d_time":0.8501607564,"n_visits":5,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.8501675014,"n_visits":5,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.6777883722,"n_visits":5,"max_disc":10,"curr_disc":5,"is_purchased":1}
-{"d_time":0.267284641,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.267284641,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000068746,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.0664782063,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000121928,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
@@ -11631,6 +11679,7 @@
 {"d_time":0.0000059667,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000199754,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000093391,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.0000024645,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.4970082972,"n_visits":8,"max_disc":15,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0774270513,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.9682015241,"n_visits":7,"max_disc":10,"curr_disc":0,"is_purchased":-1}
@@ -11770,7 +11819,7 @@
 {"d_time":0.5803759497,"n_visits":5,"max_disc":20,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.5803647946,"n_visits":5,"max_disc":20,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.1356536082,"n_visits":4,"max_disc":5,"curr_disc":5,"is_purchased":1}
-{"d_time":0.1109685739,"n_visits":2,"max_disc":20,"curr_disc":10,"is_purchased":1}
+{"d_time":0.1109685739,"n_visits":3,"max_disc":20,"curr_disc":10,"is_purchased":1}
 {"d_time":0.8183618914,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8183880929,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.8183630588,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -11802,6 +11851,7 @@
 {"d_time":0.1572296166,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000083015,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.7039463964,"n_visits":4,"max_disc":20,"curr_disc":20,"is_purchased":-1}
+{"d_time":0.0000003891,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.3235525727,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000168623,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.2009941256,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -11857,7 +11907,7 @@
 {"d_time":0.6665539052,"n_visits":4,"max_disc":15,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.2723853682,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.006110392,"n_visits":3,"max_disc":20,"curr_disc":20,"is_purchased":1}
-{"d_time":0.7161936414,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
+{"d_time":0.7161936414,"n_visits":5,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.8533310055,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9043415199,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.9043709641,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -12096,6 +12146,7 @@
 {"d_time":0.7378233499,"n_visits":5,"max_disc":20,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.7378153079,"n_visits":5,"max_disc":20,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.6383275208,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":1}
+{"d_time":0.0000201051,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.5883533915,"n_visits":7,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5431025325,"n_visits":6,"max_disc":10,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.5883435335,"n_visits":7,"max_disc":10,"curr_disc":0,"is_purchased":-1}
@@ -12182,6 +12233,7 @@
 {"d_time":0.667194674,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.6671920798,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.3218331332,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":-1}
+{"d_time":0.0000054478,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.681236331,"n_visits":3,"max_disc":15,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.6812207657,"n_visits":3,"max_disc":15,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.6812029954,"n_visits":3,"max_disc":15,"curr_disc":5,"is_purchased":-1}
@@ -12482,6 +12534,7 @@
 {"d_time":0.9325404057,"n_visits":6,"max_disc":20,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.7222529275,"n_visits":5,"max_disc":20,"curr_disc":20,"is_purchased":-1}
 {"d_time":0.93250266,"n_visits":6,"max_disc":20,"curr_disc":10,"is_purchased":-1}
+{"d_time":0.000008042,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.2471037964,"n_visits":4,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.0000260718,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000062261,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
@@ -12538,6 +12591,7 @@
 {"d_time":0.7874745006,"n_visits":3,"max_disc":20,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.7875055013,"n_visits":3,"max_disc":20,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.0000051884,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.0000047993,"n_visits":2,"max_disc":20,"curr_disc":20,"is_purchased":1}
 {"d_time":0.0000239964,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.2889090315,"n_visits":5,"max_disc":15,"curr_disc":5,"is_purchased":-1}
 {"d_time":0.2889090315,"n_visits":5,"max_disc":15,"curr_disc":5,"is_purchased":-1}
@@ -12593,6 +12647,7 @@
 {"d_time":0.0731588047,"n_visits":2,"max_disc":0,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.945008677,"n_visits":6,"max_disc":15,"curr_disc":15,"is_purchased":-1}
 {"d_time":0.7896799645,"n_visits":6,"max_disc":5,"curr_disc":5,"is_purchased":1}
+{"d_time":0.0000343732,"n_visits":2,"max_disc":15,"curr_disc":15,"is_purchased":1}
 {"d_time":0.4448126199,"n_visits":4,"max_disc":5,"curr_disc":0,"is_purchased":-1}
 {"d_time":0.0000265906,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.4214453124,"n_visits":3,"max_disc":0,"curr_disc":0,"is_purchased":-1}
@@ -12629,6 +12684,7 @@
 {"d_time":0.8051245679,"n_visits":6,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.8051534933,"n_visits":7,"max_disc":10,"curr_disc":10,"is_purchased":-1}
 {"d_time":0.1516870963,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
+{"d_time":0.0000063558,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000121928,"n_visits":2,"max_disc":10,"curr_disc":10,"is_purchased":1}
 {"d_time":0.0000194565,"n_visits":2,"max_disc":5,"curr_disc":5,"is_purchased":1}
 {"d_time":0.1166858141,"n_visits":3,"max_disc":10,"curr_disc":10,"is_purchased":1}
