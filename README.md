@@ -1,2 +1,2 @@
 # AI_discount_predicition
-Model to predict discounts at online store to increase the likelyhood of customer buying the item.
+A model to predict discounts at an online store to increase the likelihood of item purchases by hesitant customers.
