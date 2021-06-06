@@ -37,6 +37,7 @@ class Model (nn.Module):
                 train_loss.append(loss.item())
                 t.set_description(
                     f"Loss: {np.average(train_loss):.3f}", refresh=True)
+        print(f"Loss: {np.average(train_loss):.3f}")
         torch.save(self.state_dict(), "models/model" +
                    datetime.now().strftime("%Y%m%d-%H%M%S"))
 
