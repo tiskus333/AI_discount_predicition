@@ -1,20 +1,8 @@
 from flask import Flask, jsonify, request
 import torch
 from model import Model
-# import pandas as pd
-# import numpy as np
-# import seaborn as sns
-# import matplotlib.pyplot as plt
-
-# import torch.nn.functional as F
-# import torch.optim as optim
-# from torch.utils.data import TensorDataset, DataLoader
-# from tqdm import tqdm
 
 app = Flask(__name__)
-# {"d_http://127.0.0.1:5000/predict/model1?d_time=0.100068132&n_visits=2&visits_per_minute=0.0001321401&max_disc=0time":0.100068132,"n_visits":2,"visits_per_minute":0.0001321401,"max_disc":0,"curr_disc":0,"is_purchased":-1}
-# http://127.0.0.1:5000/predict/model1?d_time=0.100068132&n_visits=2&visits_per_minute=0.0001321401&max_disc=0
-# http://127.0.0.1:5000/predict/basic-model?d_time=0.100068132&n_visits=2&visits_per_minute=0.0001321401&max_disc=0
 
 
 @app.route('/predict/model1', methods=['GET'])
